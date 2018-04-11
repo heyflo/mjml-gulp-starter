@@ -1,0 +1,41 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
+      <mj-all font-family="Raleway, Arial" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+        <mj-text font-size="20px" align="center">
+          A MJML starter kit with Gulp, BrowserSync & Imagemin
+        </mj-text>
+        <mj-spacer height="20px" />
+        <mj-button href="https://www.choosit.com" font-family="Helvetica" background-color="#009ee0" color="white">
+          Don't click me yo!
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image width="600" src="http://www.online-image-editor.com//styles/2014/images/example_image.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image width="300" src="http://placehold.it/300x300" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="300" src="http://placehold.it/300x300" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image width="600" src="img/test.png" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

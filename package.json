@@ -1,0 +1,33 @@
+{
+  "name": "mjml-gulp-starter",
+  "version": "1.0.0",
+  "description": "A Gulp starter for MJML 4 with live preview & assets compression",
+  "main": "gulpfile.babel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyflo/mjml-gulp-starter.git"
+  },
+  "keywords": [
+    "mjml",
+    "gulp",
+    "imagemin",
+    "browsersync"
+  ],
+  "author": "Florent CLANET (florent@choosit.com)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-mjml": "^3.0.0",
+    "gulp-newer": "^1.4.0"
+  }
+}
