@@ -21,20 +21,20 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image width="600" src="http://www.online-image-editor.com//styles/2014/images/example_image.png" />
+        <mj-image width="600px" src="http://www.online-image-editor.com//styles/2014/images/example_image.png" />
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image width="300" src="http://placehold.it/300x300" />
+        <mj-image width="300px" src="http://placehold.it/300x300" />
       </mj-column>
       <mj-column>
-        <mj-image width="300" src="http://placehold.it/300x300" />
+        <mj-image width="300px" src="http://placehold.it/300x300" />
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image width="600" src="img/test.png" />
+        <mj-image width="600px" src="img/test.png" />
       </mj-column>
     </mj-section>
   </mj-body>

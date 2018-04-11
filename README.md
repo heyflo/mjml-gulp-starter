@@ -12,10 +12,10 @@ As Emails require to have lightweight images aswell, it also comes with imagemin
 - [MJML](https://mjml.io/) 4 processor for gulp (gulp-mjml),
 - **BrowserSync** server for assets injections & automatic reload on changes,
 - **Imagemin** for _lossless_ images compression with :
-    * **gifsicle** — Compress GIF images
-    * **jpegtran** — Compress JPEG images
-    * **optipng** — Compress PNG images
-    * **svgo** — Compress SVG images
+  * **gifsicle** — Compress GIF images
+  * **jpegtran** — Compress JPEG images
+  * **optipng** — Compress PNG images
+  * **svgo** — Compress SVG images
 - **MJML** starter template.
 
 
