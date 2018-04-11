@@ -4,7 +4,7 @@
 ## Introduction
 
 ### MJML Starter for Email coding with Gulp, BrowserSync & Imagemin.
-MJML is a new way of writing/buidling super fast HTML Email without caring too much about all the various hacks/fallbacks.
+MJML is a new way of writing/building super fast HTML Email without caring too much about all the various hacks/fallbacks.
 This starter was build to make it easier on your side to write MJML and preview the HTML rendered instantly in the browser as you code.
 As Emails require to have lightweight images aswell, it also comes with imagemin to compress images as you add them.
 
